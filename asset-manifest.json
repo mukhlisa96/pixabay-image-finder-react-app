@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pixabay-image-finder-react-app/static/css/main.e6c13ad2.css",
+    "main.js": "/pixabay-image-finder-react-app/static/js/main.93688a07.js",
+    "static/js/787.662fdd13.chunk.js": "/pixabay-image-finder-react-app/static/js/787.662fdd13.chunk.js",
+    "index.html": "/pixabay-image-finder-react-app/index.html",
+    "main.e6c13ad2.css.map": "/pixabay-image-finder-react-app/static/css/main.e6c13ad2.css.map",
+    "main.93688a07.js.map": "/pixabay-image-finder-react-app/static/js/main.93688a07.js.map",
+    "787.662fdd13.chunk.js.map": "/pixabay-image-finder-react-app/static/js/787.662fdd13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.93688a07.js"
+  ]
+}
